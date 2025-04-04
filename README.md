@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Neetupetwal
-- 👀 I’m interested in search of new opportunity
-- 🌱 I’m currently learning Tableau
+- 👀 I’m interested in search of new opportunity as Data Analyst
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me www.linkedin.com/in/neetu-kumari-25761255
 - 😄 Pronouns: SHE/HER
